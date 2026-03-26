@@ -1,0 +1,50 @@
+targeting,description,Arabidopsis thaliana,Amborella trichopoda,Balanophora fungosa,Cuscuta australis,Cuscuta campestris,Dendropemon caribaeus,Epipogium aphyllum,Epipogium roseum,Monotropa hypopitys,Ipomoea trifida,Manihot esculenta,Mimulus guttatus,Malania oleifera,Oryza sativa,Phalaenopsis equestris,Phtheirospermum japonicum,Rafflesia cantleyi,Rhopalocnemis phalloides,Rhododendron williamsianum,Santalum album,Striga asiatica,Sapria himalayana,Spirodela polyrhiza,Viscum album,Vitis vinifera
+cytosolic,AlaRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+cytosolic,AsnRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+cytosolic,AspRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,CysRS,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,GlnRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+cytosolic,GluRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+cytosolic,GlyRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+cytosolic,HisRS,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,IleRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2
+cytosolic,LeuRS,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2
+cytosolic,LysRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,MetRS,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+cytosolic,PheRSA,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,PheRSB,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+cytosolic,ProRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+cytosolic,SerRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,ThrRS,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,TrpRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+cytosolic,TyrRS,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,1,2,2,1,2,2,2,2,2
+cytosolic,ValRS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+organellar,AlaRS,2,2,0,0,0,1,0,0,0,2,2,2,2,2,2,2,0,0,2,2,2,0,2,0,2
+organellar,AsnRS,2,2,2,2,2,2,1,1,2,2,2,2,2,2,1,2,0,0,2,2,2,0,2,2,2
+organellar,AspRS,2,2,0,2,2,1,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,0,2,2,2
+organellar,CysRS,2,2,0,2,2,1,1,1,0,2,2,2,2,2,2,2,0,0,2,2,2,0,2,0,2
+organellar,GluRS,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,2
+organellar,GlyRS,2,2,0,2,2,1,0,0,2,2,2,2,1,2,2,1,0,0,2,2,2,0,2,2,2
+organellar,HisRS,2,2,0,2,2,1,2,1,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+organellar,IleRS,2,2,0,2,2,2,2,1,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,2
+organellar,LeuRS,2,2,0,2,2,1,0,0,1,2,2,2,2,2,2,2,0,1,2,2,2,0,2,1,2
+organellar,LysRS,2,2,0,2,2,1,0,0,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+organellar,MetRS,2,2,0,2,2,2,0,0,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+organellar,PheRS,2,2,2,2,2,2,0,1,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+organellar,ProRS,2,2,0,2,2,2,0,0,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+organellar,SerRS,2,2,0,2,2,2,0,1,2,2,2,2,2,2,2,2,0,1,2,2,2,0,2,2,2
+organellar,ThrRS,2,2,0,2,2,2,0,0,0,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+organellar,TrpRS,2,2,0,2,2,2,2,1,0,2,2,2,2,2,2,2,0,2,2,2,2,0,2,2,2
+organellar,TyrRS,2,2,0,2,2,1,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,0,2,0,2
+organellar,ValRS,2,2,0,2,1,1,1,1,2,2,2,2,2,1,2,2,0,1,2,2,2,0,2,2,2
+tRNA_processing,CCAse,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+tRNA_processing,GatA,2,2,0,2,2,1,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,0,2,2,2
+tRNA_processing,GatB,2,2,0,2,2,1,2,1,0,2,2,2,2,2,2,2,0,1,2,2,0,0,2,2,2
+tRNA_processing,GatC,2,2,0,2,2,1,0,1,2,2,2,2,0,2,2,2,0,0,2,2,2,0,2,2,2
+tRNA_processing,PRORP1 organellar,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+tRNA_processing,PRORP2/3 nuclear ,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2,2,2,0,2,2,2
+tRNA_processing,putative MTF ,2,2,2,2,2,2,2,0,0,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2
+tRNA_processing,putative Tils ,2,2,0,2,2,1,2,2,2,2,2,2,2,2,2,2,0,2,2,2,1,0,2,2,2
+tRNA_processing,tRNaseZ1 cytosolic ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+tRNA_processing,tRNaseZ2 plastid ,2,2,0,0,0,2,0,0,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2
+tRNA_processing,tRNaseZ3/4 mito/nuclear ,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2

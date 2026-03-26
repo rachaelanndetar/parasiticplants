@@ -1,0 +1,50 @@
+targeting,description,Orthogroup
+cytosolic,AlaRS,OG0004628
+cytosolic,AsnRS,OG0002400
+cytosolic,AspRS,OG0004908
+cytosolic,CysRS,OG0001799cytosolic
+cytosolic,GlnRS,OG0005212
+cytosolic,GluRS,OG0005132
+cytosolic,GlyRS,OG0003744
+cytosolic,HisRS,OG0002882
+cytosolic,IleRS,OG0004715
+cytosolic,LeuRS,OG0003097
+cytosolic,LysRS,OG0003807
+cytosolic,MetRS,OG0002972
+cytosolic,PheRSA,OG0004925
+cytosolic,PheRSB,OG0005999
+cytosolic,ProRS,OG0004079
+cytosolic,SerRS,OG0007226
+cytosolic,ThrRS,OG0007326
+cytosolic,TrpRS,OG0004377
+cytosolic,TyrRS,OG0004333
+cytosolic,ValRS,OG0003734
+organellar,AlaRS,OG0011039
+organellar,AsnRS,OG0009614
+organellar,AspRS,OG0008636
+organellar,CysRS,OG0001799organellar
+organellar,GluRS,OG0006957
+organellar,GlyRS,OG0008593
+organellar,HisRS,OG0007458
+organellar,IleRS,OG0009393
+organellar,LeuRS,OG0006621
+organellar,LysRS,OG0009819
+organellar,MetRS,OG0010773
+organellar,PheRS,OG0004394
+organellar,ProRS,OG0010106
+organellar,SerRS,OG0007622
+organellar,ThrRS,OG0010020
+organellar,TrpRS,OG0009793
+organellar,TyrRS,OG0007425
+organellar,ValRS,OG0004574
+tRNA_processing,CCAse,OG0006477
+tRNA_processing,GatA,OG0009328
+tRNA_processing,GatB,OG0004816
+tRNA_processing,GatC,OG0009627
+tRNA_processing,PRORP1 organellar,OG0001206organellar
+tRNA_processing,PRORP2/3 nuclear ,OG0001206cytosolic
+tRNA_processing,putative MTF ,OG0007968
+tRNA_processing,putative Tils ,OG0006323
+tRNA_processing,tRNaseZ1 cytosolic ,OG0002456cytosolic
+tRNA_processing,tRNaseZ2 plastid ,OG0002456plastidial
+tRNA_processing,tRNaseZ3/4 mito/nuclear ,OG0003316
