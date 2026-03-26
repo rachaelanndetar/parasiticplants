@@ -1,0 +1,55 @@
+ID	description	category	source	notes
+AT1G50200	cytosolic Ala aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G70980	cytosolic Asn aaRS	cytosolic_aaRS	Duchene 2005	
+AT5G56680	cytosolic Asn aaRS	cytosolic_aaRS	Duchene 2005	
+AT4G26870	cytosolic Asp aaRS	cytosolic_aaRS	Duchene 2005	
+AT4G31180	cytosolic Asp aaRS	cytosolic_aaRS	Duchene 2005	
+AT3G56300	cytosolic Cys aaRS	cytosolic_aaRS	Duchene 2005	
+AT5G38830	cytosolic Cys aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G25350	cytosolic GlnRS	cytosolic_aaRS	Duchene 2005	
+AT5G26710	cytosolic Glu aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G29880	cytosolic Gly aaRS	cytosolic_aaRS	Duchene 2005	
+AT3G02760	cytosolic His aaRS	cytosolic_aaRS	Duchene 2005	
+AT4G10320	cytosolic Ile aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G09620	cytosolic Leu aaRS	cytosolic_aaRS	Duchene 2005	
+AT3G11710	cytosolic Lys aaRS	cytosolic_aaRS	Duchene 2005	
+AT4G13780	cytosolic Met aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G72550	cytosolic Phe aaRS	cytosolic_aaRS	Duchene 2005	
+AT4G39280	cytosolic Phe aaRS	cytosolic_aaRS	Duchene 2005	
+AT3G62120	cytosolic Pro aaRS	cytosolic_aaRS	Duchene 2005	
+AT5G27470	cytosolic Ser aaRS	cytosolic_aaRS	Duchene 2005	
+AT5G26830	cytosolic Thr aaRS	cytosolic_aaRS	Duchene 2005	
+AT3G04600	cytosolic Trp aaRS	cytosolic_aaRS	Duchene 2005	
+AT2G33840	cytosolic Tyr aaRS	cytosolic_aaRS	Duchene 2005	
+AT1G14610	cytosolic Val aaRS	cytosolic_aaRS	Duchene 2005	
+AT5G22800	organellar Ala aaRS	organellar_aaRS	Duchene 2005	
+AT4G17300	organellar Asn aaRS	organellar_aaRS	Duchene 2005	
+AT4G33760	organellar Asp aaRS	organellar_aaRS	Duchene 2005	
+AT2G31170	organellar Cys aaRS	organellar_aaRS	Duchene 2005	
+AT5G64050	organellar Glu aaRS	organellar_aaRS	Duchene 2005	
+AT3G48110	organellar Gly aaRS	organellar_aaRS	Duchene 2005	
+AT3G46100	organellar His aaRS	organellar_aaRS	Duchene 2005	
+AT5G49030	organellar Ile aaRS	organellar_aaRS	Duchene 2005	
+AT4G04350	organellar Leu aaRS	organellar_aaRS	Duchene 2005	
+AT3G13490	organellar Lys aaRS	organellar_aaRS	Duchene 2005	
+AT3G55400	organellar Met aaRS	organellar_aaRS	Duchene 2005	
+AT3G58140	organellar Phe aaRS	organellar_aaRS	Duchene 2005	
+AT5G52520	organellar Pro aaRS	organellar_aaRS	Duchene 2005	
+AT1G11870	organellar Ser aaRS	organellar_aaRS	Duchene 2005	
+AT2G04842	organellar Thr aaRS	organellar_aaRS	Duchene 2005	
+AT2G25840	organellar Trp aaRS	organellar_aaRS	Duchene 2005	
+AT3G02660	organellar Tyr aaRS	organellar_aaRS	Duchene 2005	
+AT5G16715	organellar Val aaRS	organellar_aaRS	Duchene 2005	
+AT1G22660	organeller and nuclear CCAse	tRNA_processing	Warren 2020	
+AT3G25660	organeller GatA	tRNA_processing	Warren 2020	
+AT1G48520	organeller GatB 	tRNA_processing	Warren 2020	
+AT4G32915	organeller GatC	tRNA_processing	Warren 2020	
+AT1G66520	organeller MTF putative	tRNA_processing	Warren 2020	
+AT3G24560	organeller Tils putative	tRNA_processing	Warren 2020	
+AT1G74700	cytosolic tRNaseZ1	tRNA_processing	Warren 2020	
+AT2G04530	plastidial tRNaseZ2	tRNA_processing	Warren 2020	
+AT1G52160	mitochondrial and nuclear tRNaseZ3	tRNA_processing	Warren 2020	
+AT3G16260	mitochondrial tRNaseZ4	tRNA_processing	Warren 2020	
+AT2G32230	organeller PRORP1	tRNA_processing	Warren 2020	
+AT2G16650	nuclear PRORP2	tRNA_processing	Warren 2020	
+AT4G21900	nuclear PRORP3 (RNAseP)	tRNA_processing	Warren 2020	

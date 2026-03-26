@@ -1,0 +1,20 @@
+ID	description	category	source	notes		
+AT1G17960	cytosolic Thr aaRS (Dan not include)	Pseudo gene	Dan trunc exp	Pseudo gene		
+AT3G44740	psuedogene GlyRS (Duchene 2005)	Pseudo gene	Duchene 2005	Pseudo gene		
+AT1G29870	psuedogene GlyRS (Duchene 2005)	Pseudo gene	Duchene 2006	Pseudo gene		
+AT2G40660	psuedogene MetRS (Duchene 2005)	Pseudo gene	Duchene 2007	Pseudo gene		
+AT3G07420	psuedogene AsnRS (Duchene 2005)	Pseudo gene	Duchene 2008	Pseudo gene		
+AT1G68420	psuedogene AsnRS (Duchene 2005)	Pseudo gene	Duchene 2009	Pseudo gene		
+AT5G38750	psuedogene AsnRS (Duchene 2005)	Pseudo gene	Duchene 2010	Pseudo gene		
+AT5G19720	psuedogene GlnRS (Duchene 2005)	Pseudo gene	Duchene 2011	Pseudo gene		
+AT1G27160	psuedogene ValRS (Duchene 2005)	Pseudo gene	Duchene 2012	Pseudo gene		
+AT5G10880	psuedogene ProRS (Dan trunc exp)	Pseudo gene	Dan trunc exp	Pseudo gene		
+AT1G68325	psuedogene GlnRS (Dan trunc exp)	Pseudo gene	Dan trunc exp	Pseudo gene		
+AT1G18130	psuedogene ThrRS (trunc exp)	Pseudo gene	Dan trunc exp	Pseudo gene		
+AT1G49930	psuedogene AlaRS (Dan trunc exp)	Pseudo gene	Dan trunc exp	Pseudo gene		
+AT5G03406	psuedogene HisRS (Pot mapping err)	Pseudo gene	Pot mapping err	Pseudo gene		
+AT3G30805	psuedogene LysRS ()	Pseudo gene	Rachael trunc exp	Pseudo gene		
+AT5G60430	psuedogene PRORP	Pseudo gene		Pseudo gene		
+AT5G19720	psuedogene GlnRS (Duchene 2005)	Pseudo gene	Duchene 2005	Pseudo gene		
+AT3G10110	Tim22-2	Pseudo gene	Murcha et al 2014 JEB	Pseudo gene		
+AT1G35860	Toc75 I psuedogene	Pseudo gene	Baldwin et al 2005 Plant Phys			
