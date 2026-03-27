@@ -1,0 +1,35 @@
+#!/bin/bash
+#SBATCH --job-name=trimmomatic
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=radetar@colostate.edu
+#SBATCH --time=48:00:00
+#SBATCH --nodes=1
+#SBATCH --output=%j_trimmomatic.out
+
+
+#Modified on 20250117 to trim according to IDT's suggestions
+
+module purge
+
+module load anaconda
+
+conda activate trimmomatic
+
+
+
+#provide list of filepaths to read 1 file of sets of paired end reads you want to trim - "rawdatafiles.txt"
+#provide fasta file with sequences of IDT adaptor sequence to trim off - "idt_adaptors.fa"
+#keep in mind with IDT kit you may want to trim off 15 bp of R1 and R2 if insert is longer than read, and 15 bp off end of R1  and beginning of R2
+
+now="$(date)"
+echo "Date and time run: $now"
+
+
+for file in $(cat rawdatafiles.txt | grep _1.fq.gz);
+do
+	filehandle=${file%_1.fq.gz}
+        i=$(basename $file _1.fq.gz)
+	echo "############${i}############"
+	trimmomatic PE ${filehandle}_1.fq.gz ${filehandle}_2.fq.gz -baseout ./${i}.fq.gz ILLUMINACLIP:/home/radetar/adaptor_sequences/idt_adaptors.fa:2:30:10:4:true HEADCROP:15 MAXINFO:100:0.8
+
+done

@@ -16,10 +16,9 @@ import numpy as np
 #%%
 #load command line args
 """
-    arg1= original query list
-    arg2= blasthits1
-    arg3= blasthits2
-    arg4= name for output file
+    arg1= blasthits1
+    arg2= blasthits2
+    arg3= name for output file
 """
 def main():
     today=datetime.now()
@@ -43,8 +42,8 @@ def main():
 
     merged=pd.merge(b1,b2, how='left').sort_values('hit').reset_index(drop=True)
     merged["query_RBH_match"]=np.where(merged["query"] == merged["RBH"], "*", "")
-
-    filename="".join(["blast_RBH_",args[3],today.strftime("%Y%m%d_%H_%M_%S"),".xlsx"])
+    print(args[2])
+    filename="".join(["blast_RBH_",args[2],today.strftime("%Y%m%d_%H_%M_%S"),".xlsx"])
 
     merged.to_excel(str(filename), index=False)
     return 0

@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH --job-name=fastqc
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=radetar@colostate.edu
+#SBATCH --time=24:00:00
+#SBATCH --nodes=1
+#SBATCH --output=%j_fastqc.out
+
+############Arguments###########################
+# $1 Provide a list of file paths for files to trim - i.e. "trimmeddatafiles.txt"
+# $2 Provide the name of an output diretory - i.e. "QC_aftertrimming"
+module purge
+module load anaconda
+conda activate readmapping
+
+
+
+now="$(date)"
+echo "Date and time run: $now"
+
+
+
+for i in $(cat  $1); 
+do
+	echo "######${i}#######"
+	fastqc $i -o $2
+
+done

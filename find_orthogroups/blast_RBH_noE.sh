@@ -44,7 +44,7 @@ fi
 ###mash tables of blast results together
 if [ -s blast2.temp ]
 then
-	tablemash_blast_RBH.py blast1.temp blast2.temp
+	tablemash_blast_RBH.py blast1.temp blast2.temp ${4%.fa}_${5%.fa}
 	
 else
 	echo "No reciprocal BLAST hits for your query"
